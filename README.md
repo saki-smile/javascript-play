@@ -1,2 +1,2 @@
 # javascript-play
-## javascript練習
+## javascript練習用
